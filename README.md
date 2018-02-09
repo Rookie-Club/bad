@@ -1,4 +1,4 @@
-# Build a database
+# Build A Database
 
 Exercice de reconstruction d'une base de donnée simple, pour en comprendre les mécanismes.
 
